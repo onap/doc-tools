@@ -2,4 +2,3 @@
 #
 49774a9bf27635b7549b4b7f2886b4ff3cd1e78e                                  	saml/onap-gerrit-doc-tools-committers
 daebbf523be390041a1a9c0e340a6d833aae5043                                  	GitHub Replication
-ldap:cn=onap-gerrit-doc-tools-committers,ou=Groups,dc=freestandards,dc=org	ldap/onap-gerrit-doc-tools-committers
